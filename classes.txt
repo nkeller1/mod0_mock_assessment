@@ -5,6 +5,8 @@ soilWet (integer)
 water (boolean)
 sunlight (boolean)
 color (string)
+leafShape (array)
+flowerShape (array)
 
 
 Methods
