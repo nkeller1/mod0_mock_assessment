@@ -1,0 +1,41 @@
+Assemble in order of; one half bread, veggies, cheese and meat, one half bread and enjoy.
+1. Apply mayo to bread
+  1.1 Grab bread from pantry
+    1.1.1 walk to pantry
+    1.1.2 open pantry door
+    1.1.3 reach into pantry
+    1.1.4 grab bread with hand
+    1.1.5 bring bread to counter
+  1.2 Apply Mayo to bread with butterknife
+    1.2.1 walk to refrigerator
+    1.2.2 open refrigerator door
+    1.2.3 reach into refrigerator
+    1.2.4 grab mayo with hand
+    1.2.5 bring mayo to counter
+    1.2.6 walk to silverware drawer
+    1.2.7 open silverware drawer
+    1.2.8 grab butterknife with hand
+    1.2.9 bring butterknife to counter
+    1.2.10 open mayo jar
+    1.2.11 plunge butterknife into mayo jar and scoop
+    1.2.12 scoop mayo onto one side of bread
+2. Stack pepperjack cheese on top of turkey
+  2.1 Obtain cheese from refrigerator
+    2.1.1 walk to refrigerator
+    2.1.2 open refrigerator door
+    2.1.3 reach into refrigerator
+    2.1.4 grab cheese with hand
+    2.1.5 bring cheese to counter
+    2.1.6 open bag of cheese
+    2.1.7 remove two slices of cheese from bag
+    2.1.8 place cheese slices on turkey
+  2.2 Place turkey on counter
+    2.1.1 walk to refrigerator
+    2.1.2 open refrigerator door
+    2.1.3 reach into refrigerator
+    2.1.4 grab turkey with hand
+    2.1.5 bring turkey to counter
+    2.1.6 open bag of turkey
+    2.1.7 remove six slices of turkey from bag
+    2.1.8 place turkey slices on counter
+3. Apply veggies
