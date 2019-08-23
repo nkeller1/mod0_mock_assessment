@@ -1,0 +1,15 @@
+Object: Verbena
+
+Attributes
+
+color (purple)
+leafShape (oblong)
+flowerShape (tubular)
+annual (true)
+
+Object
+
+color (pink)
+leafShape (rigid)
+flowerShape (snout-shaped)
+annual (true)

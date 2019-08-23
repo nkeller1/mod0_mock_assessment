@@ -4,9 +4,10 @@ soilDry (integer)
 soilWet (integer)
 water (boolean)
 sunlight (boolean)
-color (string)
+flowerColor (string)
 leafShape (array)
 flowerShape (array)
+annual (boolean)
 
 
 Methods
