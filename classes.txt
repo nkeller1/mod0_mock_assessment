@@ -1,0 +1,14 @@
+Class Plant
+
+soilDry (integer)
+soilWet (integer)
+water (boolean)
+sunlight (boolean)
+color (string)
+
+
+Methods
+waterPlant (divide soil wet by soil dry)
+photosynthesis (sunlight + water)
+changeColor (changes the color attribute)
+wilt (soilDry)
